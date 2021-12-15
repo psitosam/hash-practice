@@ -3,3 +3,9 @@ car = {
   make: "Dodge",
   model: "Challenger"
 }
+
+dog = {
+  name: "Charlie",
+  breed: "Shepherd",
+  sex: "Male"
+}
